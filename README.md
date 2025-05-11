@@ -25,9 +25,13 @@ A classic **Tic Tac Toe** game built with **HTML**, **CSS**, and **JavaScript**.
 ## 📁 Project Structure
 
 📁 tic-tac-toe/ <br/>
-├── index.html # Main HTML file <br/>
-├── style.css # CSS styles <br/>
-├── first.js # JavaScript logic <br/>
+
+├── index.html # Main HTML file
+<br/>
+├── style.css # CSS styles
+<br/>
+├── first.js # JavaScript logic
+<br/>
 └── README.md # Project README <br/>
 
 
